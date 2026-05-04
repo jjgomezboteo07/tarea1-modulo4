@@ -6,6 +6,5 @@ formulario.addEventListener('submit', function(event) {
 
     alert(`¡Gracias! Tu consulta ha sido enviada con éxito. Pronto recibirás una respuesta en: ${emailUsuario}`);
 
-    // 5. Opcional: Limpiar el formulario después de enviar
     formulario.reset();
 });
