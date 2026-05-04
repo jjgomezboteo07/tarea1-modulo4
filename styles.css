@@ -1,0 +1,9 @@
+.encabezado_titulo{
+font-size: 2.5em;
+color: rgb(245, 7, 7);
+margin-bottom: 0.5em;
+}
+.encabezado_parrafo{
+    font-size: 1.2rem;
+    color: chocolate;
+}
